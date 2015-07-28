@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.16.73.196:8080/build/150403/ios_ws_trunk_305_.ipa</string>
+					<string>http://172.16.38.60:8080/build/150728/ws_ios_trunk_3305.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -37,9 +37,9 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string> ios_ws_trunk_303_ </string>
+				<string>ws_ios_trunk,3305</string>
 				<key>title</key>
-				<string> ios_ws_trunk_303_ </string>
+				<string>陌陌无双-ws_ios_trunk</string>
 			</dict>
 		</dict>
 	</array>
