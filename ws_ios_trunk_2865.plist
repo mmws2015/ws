@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://172.16.7.205:8080/build/160107/ws_ios_trunk_2865.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string></string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string></string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>wemomo2.com.trunk</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>ws_ios_trunk,2865</string>
+				<key>title</key>
+				<string>陌陌无双-ws_ios_trunk</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
