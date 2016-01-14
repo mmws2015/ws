@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.16.73.196:8080/build/150803/ws_ios_trunk_3492.ipa</string>
+					<string>http://172.16.7.205:8080/build/160114/ws_ios_trunk_3492.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.wemomo2.game.trunk</string>
+				<string>wemomo2.com.trunk</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
